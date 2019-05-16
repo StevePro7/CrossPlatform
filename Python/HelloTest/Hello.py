@@ -1,2 +1,2 @@
-print('hello')
-print('there')
+print('hello');
+print('cross');
